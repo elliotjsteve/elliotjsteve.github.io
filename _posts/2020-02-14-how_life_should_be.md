@@ -15,7 +15,7 @@ It cost me money, time, mental health.
 Until one day I found _Stoicism_.
 It is _changing_ my life.
 I'm still not perfect at it.
-There is not perfect stoic.
+There is no perfect stoic.
 Only growing stoic.
 But, Stoicism is only a part of the answer.
 I will get back to this later.
@@ -47,10 +47,10 @@ They think of them as a class(group).
 As soon as they see one, they know what it does, where it goes, how it behaves.
 We see patterns and we make them into classes.
 
-So, What if we try to take the same approach with problems in life. You don't deal with a problem as if it were a brand-new-once-in-a-millennium problem. You classify them, make them into a class. And find a solution collectively. Now, I know you don't have lesser problems. But atleast you know how to deal with them. This takes the sting out of a lot of problems.
+So, What if we try to take the same approach with problems in life. You don't deal with a problem as if it were a brand-new-once-in-a-millennium problem. You classify them, make them into a class. And find a solution collectively. Now, I know you don't have fewer problems. But atleast you know how to deal with them. This takes the sting out of a lot of problems.
 
 That is exactly what the ancient stoics did.
-If anybody asks me what Stoicism is, I'll say this: _A HandBook of Life_
+If anybody asks me what Stoicism is, I'll say this: _A HandBook of Life_.
 Yes. Really.
 It is a HandBook of Life.
 See, the Stoics took the same approach to life.
@@ -73,14 +73,16 @@ You can test it.
 If it doesn't work, change it.
 It doesn't exist for academic debates. It exists for real life.
 Stoicism does not require blind faith.
-Stoicism is based on truth and what works in real life.
+Stoicism is based on truth and what works.
 Stoics are realists.
 
 Stoics offer a bunch of techniques to deal with whatever comes in life.
 You are blessed, to say the least, if you could understand stoicism.
 Now if you are interested in adopting stoicism, Here's what you shouldn't do:
+
 ...Don't study about stoicism on the web or don't look at summaries of stoicism. Those summaries don't even scratch the surface and they miss so much context.
 Here's what you should do:
+
 ...Get a good book. Don't pick up a very old one. They're like legacy code. Hard to Understand. Try translated versions.
 A Good example is: [A Guide to the Good Life](https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life).
 I think, in fact, this is the best book on stoicism.
