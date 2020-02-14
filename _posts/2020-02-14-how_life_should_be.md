@@ -91,7 +91,7 @@ I strongly recommend this book because, the author made his own changes to stoic
 
 -->An open mind is a prerequisite.
 
-That answers the question of _How Life Should be_: Stoic
+That answers the question of _How Life Should be_: Stoic.
 Sadly, there is another important part that Stoicism neglects: Direction.
 It doesn't tell you what to do in life.
 It tells you what's worth pursuing and what's not.
