@@ -6,7 +6,7 @@ title: Hello-World!
 ### Who Am I?
 
 I am Madhu.
-My Pseudonym is Vms.
+My Pseudonym is @vmsi.
 Also, I am a neophile.
 
 ### What do I do?
