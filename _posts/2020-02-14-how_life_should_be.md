@@ -81,12 +81,14 @@ You are blessed, to say the least, if you could understand stoicism.
 Now if you are interested in adopting stoicism, Here's what you shouldn't do:
 
 -->Don't study about stoicism on the web or don't look at summaries of stoicism. Those summaries don't even scratch the surface and they miss so much context.
+
 Here's what you should do:
 
 -->Get a good book. Don't pick up a very old one. They're like legacy code. Hard to Understand. Try translated versions.
 A Good example is: [A Guide to the Good Life](https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life).
 I think, in fact, this is the best book on stoicism.
 I strongly recommend this book because, the author made his own changes to stoicism that is even better.
+
 -->An open mind is a prerequisite.
 
 That answers the question of _How Life Should be_: Stoic
