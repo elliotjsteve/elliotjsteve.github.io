@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Madhu (Vms)
+name: Vms
 
 # Short bio or description (displayed in the header)
 description: A Stoic from Somewhere
@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/elliotjsteve/elliotjsteve.github.io/ma
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: elliot.jsteve@gmail.com
   facebook:
   flickr:
   github: elliotjsteve/elliotjsteve.github.io 
@@ -39,7 +39,7 @@ disqus:
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
-# Your website URL (e.g. or http://www.barryclark.co)
+# Your website URL (e.g. http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: http://elliotjsteve.github.io 
 
