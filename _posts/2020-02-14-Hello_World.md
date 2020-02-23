@@ -6,7 +6,7 @@ title: hello web!
 ### Who Am I?
 
 I am Madhu.
-My Pseudonym is @vmsi.
+My Pseudonym is {{ site.name }}
 Also, I am a neophile.
 
 ### What do I do?
