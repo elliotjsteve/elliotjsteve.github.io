@@ -1,9 +1,7 @@
 ---
 layout: post
-title: hello web!
+title: Who I Am
 ---
-
-### Who Am I?
 
 I am Madhu.
 My Pseudonym is {{ site.name }}.
