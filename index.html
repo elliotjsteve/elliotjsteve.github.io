@@ -3,20 +3,19 @@ layout: default
 ---
 
 <div class="posts">
+<div class="card-columns">
   {% for post in site.posts %}
-<div class="card-deck">
 <div class="card">
   <img src="https://i.ytimg.com/vi/FPw_Pgeixf4/maxresdefault.jpg" class="card-img-top" alt="Crazy-hot-Kajal">
   <div class="card-body">
-    <h5 class="card-title">{{ post.title }}</h5>
+    <h5 class="card-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
     <p class="card-text">
 		<div class="entry">
          {{ post.excerpt }}
         </div>
 	</p>
-    <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary">Read More...</a>
   </div>
 </div>
-</div>
   {% endfor %}
+</div>
   </div>
