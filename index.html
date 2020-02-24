@@ -4,7 +4,8 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-<div class="card" style="height: 45rem;">
+<div class="card-group">
+<div class="card" style="width: 20rem;">
   <img src="https://i.ytimg.com/vi/FPw_Pgeixf4/maxresdefault.jpg" class="card-img-top" alt="Crazy-hot-Kajal">
   <div class="card-body">
     <h5 class="card-title">{{ post.title }}</h5>
@@ -15,6 +16,7 @@ layout: default
 	</p>
     <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary">Read More...</a>
   </div>
+</div>
 </div>
   {% endfor %}
   </div>
