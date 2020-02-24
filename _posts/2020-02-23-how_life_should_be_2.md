@@ -27,7 +27,7 @@ We only get 22 lives.
 Or is it 53?
 I don't care.
 As long as I'm alive in this life, it's all I care about.
-And I want to lead the most wonderful, exciting, rich life possible.
+And I want to lead the most wonderful, exciting, richest life possible.
 And what I need to be able to do that is Power.
 Yes.
 It's Power.
@@ -35,24 +35,41 @@ Most people lead powerless lives.
 They have no power.
 Means they don't have the ability to make things happen.
 Instead things happen to them.
-And there's nothing they can do about it.
 And Power's not one of them.
 
 You might be gifted with Power by virtue of birth.
 Or you might not.
 See, Power is like a baby.
 Not everyone of us have it.
-But everyone of us can make it.
+But everyone of us have the ability to make it.
 Yes.
 You can manufacture Power.
 What you need to do is Build Leverage.
 That's all you need to do to gain Power.
+
+Think about people who do jobs.
+The Power they create is linear to the work they put in.(In this case, Power takes the form of Money).
+You work for 8 hrs.
+You get paid for 8 hrs.
+You stop working.
+You don't get paid.
+Now See, that's a bad way to create Power.
+In fact, it's no way of creating Power.
+When things happen without lifting a finger, that's Power.
+You should always Rack Up Power exponentially, not Linearly.
+Never Linearly.
+In this case, nothing is better than something.
+(I just want to mention that there's nothing wrong with people who do jobs for a living. It just with the way they make power. Doing a job is bad way to build Power.)
+If you want to build real Power, build Leverage.
+Have as much [Leverage](https://friedpaper.xyz/building_leverage/) as possible.
 
 All this talk about Power is because to live a great life, you need to survive first.
 You need to not worry about Paying Bills.
 Finding Food.
 Finding Clothes.
 Buying Groceries.
+
+>Survive first, Live later.
 
 Power can take many forms.
 One of them is Money(Cliche´).
