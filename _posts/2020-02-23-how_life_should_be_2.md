@@ -37,16 +37,6 @@ Means they don't have the ability to make things happen.
 Instead things happen to them.
 And Power's not one of them.
 
-You might be gifted with Power by virtue of birth.
-Or you might not.
-See, Power is like a baby.
-Not everyone of us have it.
-But everyone of us have the ability to make it.
-Yes.
-You can manufacture Power.
-What you need to do is Build Leverage.
-That's all you need to do to gain Power.
-
 Think about people who do jobs.
 The Power they create is linear to the work they put in.(In this case, Power takes the form of Money).
 You work for 8 hrs.
@@ -62,6 +52,16 @@ In this case, nothing is better than something.
 (I just want to mention that there's nothing wrong with people who do jobs for a living. It just with the way they make power. Doing a job is bad way to build Power.)
 If you want to build real Power, build Leverage.
 Have as much [Leverage](https://friedpaper.xyz/building_leverage/) as possible.
+
+You might be gifted with Power by virtue of birth.
+Or you might not.
+See, Power is like a baby.
+Not everyone of us have it.
+But everyone of us have the ability to make it.
+Yes.
+You can manufacture Power.
+What you need to do is Build Leverage.
+That's all you need to do to gain Power.
 
 All this talk about Power is because to live a great life, you need to survive first.
 You need to not worry about Paying Bills.
