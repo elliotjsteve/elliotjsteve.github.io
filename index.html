@@ -6,7 +6,7 @@ layout: default
 <div class="card-columns">
   {% for post in site.posts %}
 <div class="card">
-  <img src="https://i.ytimg.com/vi/FPw_Pgeixf4/maxresdefault.jpg" class="card-img-top" alt="Crazy-hot-Kajal">
+  <img src="https://i.ytimg.com/vi/FPw_Pgeixf4/maxresdefault.jpg" class="card-img-top" alt="Kajal">
   <div class="card-body">
     <h5 class="card-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
     <p class="card-text">
@@ -15,6 +15,9 @@ layout: default
         </div>
 	</p>
   </div>
+<div class="card-footer">
+      <small class="text-muted">Published: {{ post.date | date: "%B %e, %Y" }}</small>
+    </div>
 </div>
   {% endfor %}
 </div>
