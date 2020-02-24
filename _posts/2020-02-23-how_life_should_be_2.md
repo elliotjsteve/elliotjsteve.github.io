@@ -71,6 +71,13 @@ Buying Groceries.
 
 >Survive first, Live later.
 
+Whatever you want to do in your life, let this principle guide you.
+Think about Power.
+Think about Leverage.
+Build Leverage.
+And Have fun doing it.
+Or you won't stick with it.
+
 Power can take many forms.
 One of them is Money(Cliche´).
 Money is not everything.
