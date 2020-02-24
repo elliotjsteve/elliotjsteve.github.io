@@ -4,15 +4,17 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+<div class="card" style="height: 45rem;">
+  <img src="https://i.ytimg.com/vi/FPw_Pgeixf4/maxresdefault.jpg" class="card-img-top" alt="Crazy-hot-Kajal">
+  <div class="card-body">
+    <h5 class="card-title">{{ post.title }}</h5>
+    <p class="card-text">
+		<div class="entry">
+         {{ post.excerpt }}
+        </div>
+	</p>
+    <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary">Read More...</a>
+  </div>
 </div>
+  {% endfor %}
+  </div>
