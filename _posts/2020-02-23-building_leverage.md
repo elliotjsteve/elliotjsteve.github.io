@@ -45,10 +45,13 @@ My theory is that he would know about every kind of problem there is and learn f
 He would group them.
 And when time comes, he uses his secret weapon.
 When Feynman got ill before his death in 1988, he left Caltech with 2 quotes written on his office [black board](http://archives-dc.library.caltech.edu/islandora/object/ct1%3A483/datastream/JPG/view).
+
 One Said, 
 > What I Cannot Create, I do not Understand.
+
 The Other Said, 
 > Know how to Solve every Problem that has been Solved.
+
 I think Feyzing is what he meant by the second quote.
 
 There are many problems.
